@@ -1,12 +1,22 @@
 # DAMG-6210-PROJ
 
-## Summary
+## About DAMG 6210
+### Course Description
+Studies design of information systems from a data perspective for engineering and business applications; data modeling, including entity-relationship (E-R) and object approaches; user-centric information requirements and data sharing; fundamental concepts of database management systems (DBMS) and their applications; alternative data models, with emphasis on relational design; SQL; data normalization; data-driven application design for personal computer, server-based, enterprise-wide, and Internet databases; and distributed data applications
 
-The hospital management system is a database system including the core functions of the hospital. This database system will allow patients to make appointments with doctors, view their own appointment records, support doctors in making diagnoses, prescribing prescriptions, formulating drug plans and making their own schedules, and more.
+### Professor
+Yusuf Ozbek
 
 ## ERD
 
 ![hospital_erd](https://user-images.githubusercontent.com/110271091/194777830-64958446-4369-48cb-9a21-330b522ca0b2.png)
+
+## Database
+Mysql
+
+## Summary
+
+The hospital management system is a database system including the core functions of the hospital. This database system will allow patients to make appointments with doctors, view their own appointment records, support doctors in making diagnoses, prescribing prescriptions, formulating drug plans and making their own schedules, and more.
 
 ## Project Specific
 
